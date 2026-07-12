@@ -1,2 +1,2 @@
 # Howard.github.io
-This is my personal website containing my portfolio website
+This is my personal website, which serves as my portfolio.
